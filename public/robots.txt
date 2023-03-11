@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: 1hanzla100.github.io
