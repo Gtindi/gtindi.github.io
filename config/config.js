@@ -6,11 +6,11 @@ import {
 import { faEnvelope, faGlobe } from "@fortawesome/free-solid-svg-icons";
 
 export const navigation = {
-	name: "Hanzla Tauqeer",
+	name: "Gabriel Tindi",
 	links: [],
 };
 export const intro = {
-	title: "Hey, I'm Hanzla",
+	title: "Hey, I'm Gabriel",
 	description:
 		"Full Stack Django, React.js Developer & Blockchain Developer.",
 	image: profile.src,
@@ -22,7 +22,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
+			// link: "https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -86,7 +86,7 @@ export const projects = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/1hanzla100/developer-portfolio",
+					//link: "https://github.com/1hanzla100/developer-portfolio",
 				},
 			],
 		},
